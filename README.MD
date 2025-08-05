@@ -40,7 +40,7 @@ Before running this project, you need to have the following software installed:
 1.  **Clone the repository:**
     * Open your WSL/Ubuntu terminal.
     ```bash
-    git clone [your-repository-url]
+    git clone https://github.com/johe79/Analytics-Engineer-Project---NYC-Taxi
     cd [your-project-directory]
     ```
 2.  **Start the Docker containers:**
