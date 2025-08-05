@@ -13,8 +13,8 @@ The project follows a modern data stack architecture, automating the flow of dat
 
 ### 2. Data Sources
 
-* **NYC Taxi Trip Data:** Raw trip data (yellow taxi).
-* **NYC Taxi Zones:** A geographic Shapefile (`zones.shp`) containing the polygon boundaries for each taxi zone.
+* **NYC Taxi Trip Data:** Raw trip data May 2025 (yellow taxi): https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2025-01.parquet
+* **NYC Taxi Zones:** A geographic Shapefile (`zones.shp`) containing the polygon boundaries for each taxi zone: https://d37ci6vzurychx.cloudfront.net/misc/taxi_zones.zip
 
 ### 3. Key Features
 
