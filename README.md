@@ -120,3 +120,6 @@ Drag your aggregated fare_amount measure to the "Color saturation" field.
 Python Scripting Errors: If you encounter DLL load failed or ImportError, the issue is likely a corrupted Python environment or an incorrect path. The best solution is a clean Anaconda re-installation and ensuring Power BI is pointed to the correct installation path.
 
 Visual rendering issues: If your map is not rendering correctly, it is often due to an issue with the underlying TopoJSON file. The above steps for mapshaper are a direct fix for the two most common causes of this issue.
+
+8. License
+This project is licensed under the MIT License.
