@@ -35,6 +35,7 @@ Before running this project, you need to have the following software installed:
 * **Power BI Desktop**
 * **QGIS** (for working with geographic data)
 * **Miniconda3** (for Python environment management)
+* **SQLite**
 
 ### 5. Setup and Installation
 
