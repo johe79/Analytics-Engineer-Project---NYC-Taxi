@@ -2,7 +2,10 @@
 
 This project provides a comprehensive data pipeline and analysis of NYC taxi trip data, from raw ingestion to interactive visualization. The goal is to provide insights into trip patterns and fare amounts across different geographic zones in New York City.
 
-Link: <iframe title="nyc_taxi" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNjYwMmQyMDYtYzA5My00OGUxLWE2NDEtODVlOWJlNmZlNjU3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9" frameborder="0" allowFullScreen="true"></iframe>
+Link to the interactive visualization: https://app.powerbi.com/view?r=eyJrIjoiNjYwMmQyMDYtYzA5My00OGUxLWE2NDEtODVlOWJlNmZlNjU3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
+
+![Report Dashboard] C:\Users\jonat\OneDrive\Dokumenter\Projects\nyc_taxi\Screenshot 2025-08-10 153010.png
+
 
 
 ### 1. Project Architecture
