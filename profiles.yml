@@ -1,0 +1,15 @@
+nyc_taxi_analytics:
+  target: dev
+  outputs:
+    dev:
+      type: sqlite
+      threads: 1
+      database: nyc_taxi.db
+      schema: '' #main
+      schema_directory: "/opt/airflow/nyc_taxi_dbt/db/"
+      schemas_and_paths:
+        main: "/opt/airflow/nyc_taxi_dbt/db/nyc_taxi.db"
+      quoting:
+        database: false
+        schema: false
+        identifier: false

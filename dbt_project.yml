@@ -1,0 +1,23 @@
+name: 'nyc_taxi_analytics'
+version: '1.0.0'
+config-version: 2
+
+profile: 'nyc_taxi_analytics'
+
+model-paths: ["models"]
+analysis-paths: ["analyses"]
+test-paths: ["tests"]
+seed-paths: ["seeds"]
+macro-paths: ["macros"]
+snapshot-paths: ["snapshots"]
+
+clean-targets:
+  - "target"
+  - "dbt_packages"
+
+models:
+  nyc_taxi_analytics:
+    #+schema: main
+    +materialized: table
+   # +post-hook:
+    #  - "CREATE INDEX IF NOT EXISTS idx_trip_id_composite ON {{ this }} (trip_id_composite);"
