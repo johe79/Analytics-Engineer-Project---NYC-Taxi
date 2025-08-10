@@ -4,7 +4,8 @@ This project provides a comprehensive data pipeline and analysis of NYC taxi tri
 
 Link to the interactive visualization: https://app.powerbi.com/view?r=eyJrIjoiNjYwMmQyMDYtYzA5My00OGUxLWE2NDEtODVlOWJlNmZlNjU3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
 
-![Report Dashboard] C:\Users\jonat\OneDrive\Dokumenter\Projects\nyc_taxi\Screenshot 2025-08-10 153010.png
+
+
 
 
 
