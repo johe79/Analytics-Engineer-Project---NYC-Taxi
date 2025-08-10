@@ -5,8 +5,10 @@ This project provides a comprehensive data pipeline and analysis of NYC taxi tri
 Link to the interactive visualization: https://app.powerbi.com/view?r=eyJrIjoiNjYwMmQyMDYtYzA5My00OGUxLWE2NDEtODVlOWJlNmZlNjU3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
 
 ![Alt text](images/153010.png)
-
-
+![Alt text](images/153054.png)
+![Alt text](images/153125.png)
+![Alt text](images/153150.png)
+![Alt text](images/153211.png)
 
 ### 1. Project Architecture
 
