@@ -7,7 +7,7 @@ Link to the interactive visualization: https://app.powerbi.com/view?r=eyJrIjoiNj
 ![Alt text](https://drive.google.com/uc?id=1QPn9dV0cg7nygPoKlUNW576gMwW8ecqd)
 
 
-
+![Example Image](https://drive.google.com/uc?id=1QPn9dV0cg7nygPoKlUNW576gMwW8ecqd)
 
 ### 1. Project Architecture
 
